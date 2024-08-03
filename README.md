@@ -79,12 +79,13 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 - Land area: 5 ha
 - Number of goats: 20 goats
 
-**GHG Emissions Reduction from Grazing Projects:**
-- Methane emissions from cows: 247 cows * 1 ton CO2e/year = 247 tons CO2e/year
-- Methane emissions from goats: 20 goats * 0.05 tons CO2e/year = 1 ton CO2e/year
+**Carbon Sequestration from Grazing Projects:**
+- Regenerative grazing practices can sequester approximately 0.5 to 1.5 tons of CO2 per hectare per year.
+- For Bhoomi: 150 ha * 1 ton CO2/ha/year = 150 tons of CO2 per year
+- For Podkova: 5 ha * 1 ton CO2/ha/year = 5 tons of CO2 per year
 
-**Total Emissions Reduction from Grazing Projects:**
-- 247 + 1 = 248 tons CO2e/year
+**Total Carbon Sequestration from Grazing Projects:**
+- 150 + 5 = 155 tons of CO2 per year
 
 #### Overall Summary
 
@@ -93,9 +94,9 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 2. Replacement of diesel generators: 44.24 tons CO2
 3. Conserved ecosystems: 900 tons CO2
 4. Restored ecosystems: 1012.5 tons CO2
-5. Animal grazing projects: 248 tons CO2e
+5. Animal grazing projects: 155 tons CO2
 
 **Total CO2 Emissions Reduction:**
-- 16.45 + 44.24 + 900 + 1012.5 + 248 = 2221.19 tons of CO2 per year
+- 16.45 + 44.24 + 900 + 1012.5 + 155 = 2128.19 tons of CO2 per year
 
 This consolidated report demonstrates the significant climate impact of the Eco-village Network of Ukraine, contributing to substantial GHG emissions reductions and promoting environmental sustainability through the use of renewable energy, the restoration of natural ecosystems, and sustainable animal grazing practices. The calculations are based on the metrics provided by the Climate Solutions Metrics Garden.
