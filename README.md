@@ -25,6 +25,8 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 **CO2 Emissions Reduction:**
 - 39.42 MWh / 2.396 MWh = 16.45 tons of CO2 per year
 
+The Eco-village Network of Ukraine has successfully installed solar energy systems across nine settlements. These installations have a combined capacity of 27 kW, significantly reducing reliance on fossil fuels. On average, these systems generate 4.38 MWh of clean energy annually per installation, totaling 39.42 MWh for all nine settlements. This shift to renewable energy has led to a substantial reduction in CO2 emissions, amounting to 16.45 tons per year. This effort not only mitigates the impact of climate change but also serves as a model for sustainable energy use in rural communities.
+
 #### 2. Replacement of Diesel Generators
 
 **Bluetti Power Stations:**
@@ -33,6 +35,8 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 **Estimated CO2 Emissions Reduction:**
 - Fuel consumption for 6 stations per year: 6 stations * 0.5 gallons/hour * 4 hours/day * 365 days = 4380 gallons
 - 4380 gallons / 99 = 44.24 tons of CO2 per year
+
+In addition to solar installations, the network has replaced several diesel generators with Bluetti power stations. These six stations, each with a capacity of 600 Wh, are now used instead of conventional diesel generators. This transition significantly reduces diesel fuel consumption, which, for these six stations, would have otherwise been 4380 gallons per year. By replacing diesel with clean energy sources, we have reduced CO2 emissions by 44.24 tons annually. This initiative is part of our broader strategy to lower greenhouse gas emissions and promote sustainable energy practices within our communities.
 
 #### 3. Conserved Forest and Wetland Ecosystems
 
@@ -47,6 +51,8 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 
 **Carbon Sequestration for Conserved Forests:**
 - 400 ha * 2.25 tons CO2/ha/year = 900 tons of CO2 per year
+
+The conservation efforts within the network have led to the protection of significant areas of forest and wetlands. Specifically, we have conserved 100 hectares each in Omelyanivka, Lagulske, Zelena Laguna, and near Rosy. These areas collectively amount to 400 hectares. The conserved forests play a crucial role in carbon sequestration, capturing approximately 2.25 tons of CO2 per hectare per year. This equates to a total of 900 tons of CO2 sequestered annually. These efforts not only preserve biodiversity and natural habitats but also enhance the ecosystem's ability to combat climate change through natural carbon capture.
 
 #### 4. Restored Forest and Wetland Ecosystems
 
@@ -68,6 +74,8 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 **Carbon Sequestration for Restored Forests:**
 - 450 ha * 2.25 tons CO2/ha/year = 1012.5 tons of CO2 per year
 
+Our network has also undertaken extensive restoration projects, focusing on degraded lands. We have restored 50 hectares in Tartak and an additional 50 hectares each in settlements such as Ladoslavne, Raduga, Kedry Polissya, Stozhary, Rodnyky, Rosy, Kedrovka, and Lyubske. This totals 450 hectares of restored forest and wetland ecosystems. These restored areas sequester approximately 2.25 tons of CO2 per hectare annually, resulting in a total sequestration of 1012.5 tons of CO2 per year. Restoration activities improve soil health, increase biodiversity, and enhance the land's natural ability to store carbon, contributing significantly to climate mitigation.
+
 #### 5. Impact of Animal Grazing Projects
 
 **Project "Bhoomi" (Mykolaiv region)**
@@ -86,6 +94,8 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 
 **Total Carbon Sequestration from Grazing Projects:**
 - 150 + 5 = 155 tons of CO2 per year
+
+Our animal grazing projects, such as "Bhoomi" in Mykolaiv region and "Podkova" in Kyiv region, integrate regenerative practices that enhance soil health and sequester carbon. "Bhoomi" project, covering 300 hectares with 247 cows, dedicates 150 hectares to pastures. "Podkova" covers 5 hectares with 20 goats. These regenerative grazing practices improve the soil's capacity to sequester carbon, estimated at about 1 ton of CO2 per hectare per year. This results in a sequestration of 150 tons of CO2 annually for "Bhoomi" and 5 tons for "Podkova," totaling 155 tons of CO2 per year. These projects demonstrate how sustainable livestock management can contribute to climate mitigation while supporting local livelihoods.
 
 #### Overall Summary
 
