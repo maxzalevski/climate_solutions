@@ -15,17 +15,18 @@ This report summarizes the climate impact of the Eco-village Network of Ukraine 
 7. Ladoslavne
 8. Zhivyi Dim
 9. Zhiva Khata
+10. Kovalyne
 
 **Total Installed Capacity:**
-- 9 systems * 3 kW = 27 kW
+- 10 systems * 3 kW = 30 kW
 
 **Annual Energy Generation:**
-- 9 systems * 4.38 MWh = 39.42 MWh
+- 10 systems * 4.38 MWh = 43.8 MWh
 
 **CO2 Emissions Reduction:**
-- 39.42 MWh / 2.396 MWh = 16.45 tons of CO2 per year
+- 43.8 MWh / 2.396 MWh = 18.29 tons of CO2 per year
 
-The Eco-village Network of Ukraine has successfully installed solar energy systems across nine settlements. These installations have a combined capacity of 27 kW, significantly reducing reliance on fossil fuels. On average, these systems generate 4.38 MWh of clean energy annually per installation, totaling 39.42 MWh for all nine settlements. This shift to renewable energy has led to a substantial reduction in CO2 emissions, amounting to 16.45 tons per year. This effort not only mitigates the impact of climate change but also serves as a model for sustainable energy use in rural communities.
+The Eco-village Network of Ukraine has successfully installed solar energy systems across ten settlements. These installations have a combined capacity of 30 kW, significantly reducing reliance on fossil fuels. On average, these systems generate 4.38 MWh of clean energy annually per installation, totaling 43.8 MWh for all ten settlements. This shift to renewable energy has led to a substantial reduction in CO2 emissions, amounting to 18.29 tons per year. This effort not only mitigates the impact of climate change but also serves as a model for sustainable energy use in rural communities.
 
 #### 2. Replacement of Diesel Generators
 
@@ -100,13 +101,13 @@ Our animal grazing projects, such as "Bhoomi" in Mykolaiv region and "Podkova" i
 #### Overall Summary
 
 **Total Annual CO2 Emissions Reduction:**
-1. Installed solar energy systems: 16.45 tons CO2
+1. Installed solar energy systems: 18.29 tons CO2
 2. Replacement of diesel generators: 44.24 tons CO2
 3. Conserved ecosystems: 900 tons CO2
 4. Restored ecosystems: 1012.5 tons CO2
 5. Animal grazing projects: 155 tons CO2
 
 **Total CO2 Emissions Reduction:**
-- 16.45 + 44.24 + 900 + 1012.5 + 155 = 2128.19 tons of CO2 per year
+- 18.29 + 44.24 + 900 + 1012.5 + 155 = 2130.03 tons of CO2 per year
 
 This consolidated report demonstrates the significant climate impact of the Eco-village Network of Ukraine, contributing to substantial GHG emissions reductions and promoting environmental sustainability through the use of renewable energy, the restoration of natural ecosystems, and sustainable animal grazing practices. The calculations are based on the metrics provided by the Climate Solutions Metrics Garden.
