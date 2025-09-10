@@ -3,6 +3,9 @@
 [Report Installation of Rainwater Harvesting and Solar Systems: GG21 CryptoGrant #3](https://github.com/maxzalevski/climate_solutions/issues/3)
 Karma Gap [link](https://gap.karmahq.xyz/project/gen-ukraine/grants/0x748e2dcd333525f8fe54321dd14d91a9328fc3d0702ced4d7fa8f1202428ad68)
 
+Giveth [Regenerating Water Systems in Ukrainian Communities](https://giveth.io/project/regenerating-water-systems-in-ukrainian-communities)
+Cause [Regenerating Ukraine: A Cause for Communities, Resilience & Climate](https://giveth.io/cause/regenerating-ukraine:-a-cause-for-communities-resilience-climate)
+
 #### Introduction
 This report summarizes the climate impact of the Eco-village Network of Ukraine over the past 12 months. It includes metrics on greenhouse gas (GHG) emissions reductions from the installation of solar energy systems, replacement of diesel generators, conservation and restoration of forest and wetland ecosystems, and the impact of animal grazing projects. The calculations are based on the metrics provided by the Climate Solutions Metrics Garden.
 
