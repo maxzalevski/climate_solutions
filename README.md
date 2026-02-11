@@ -1,6 +1,6 @@
 ### Climate Impact Reports of the Eco-village Network of Ukraine
 
-Solar station [table](https://docs.google.com/spreadsheets/d/1nebBOiKKs6c1Kd0VKLVMOyqLzTPdLFQEhPnviiEaCKU/edit?gid=0#gid=0) 
+Solar stations list [table](https://docs.google.com/spreadsheets/d/1nebBOiKKs6c1Kd0VKLVMOyqLzTPdLFQEhPnviiEaCKU/edit?gid=0#gid=0) 
 
 [Report Installation of Rainwater Harvesting and Solar Systems: GG21 CryptoGrant #3](https://github.com/maxzalevski/climate_solutions/issues/3)
 
